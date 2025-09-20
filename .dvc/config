@@ -1,0 +1,4 @@
+[core]
+    remote = c:\users\saswith
+['remote "c:\users\saswith"']
+    url = ../sahu/Desktop/MLOPS/Data-Version-Control/s3
