@@ -14,10 +14,10 @@ def load_data():
     df = pd.DataFrame(data)
     return df
 
-def update_data(df):
-    """Update the DataFrame with new data."""
-    df.loc[len(df)] = ["David", 28, "San Francisco", "Designer"]
-    return df
+# def update_data(df):
+#     """Update the DataFrame with new data."""
+#     df.loc[len(df)] = ["David", 28, "San Francisco", "Designer"]
+#     return df
 
 def main():
     # Load the data
